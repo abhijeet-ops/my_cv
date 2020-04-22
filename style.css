@@ -1,0 +1,155 @@
+#top{
+
+  position: relative;
+  padding: 8% 0 0 0;
+}
+#head{
+  background-color: #e0ebe8;
+}
+body{
+  text-align: center;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 100px;
+
+
+}
+.p1{
+  color: #45b29a;
+  padding-left: 5%;
+
+}
+
+.img1{
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15%;
+  padding-top: 5%;
+  width:100%;
+
+
+}
+#wd{
+  font-size: 30px;
+  font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+ #top .right-cloud{
+   right:6em;
+   top:-0.6em;
+
+ }
+
+ #top .cloud{
+   position: absolute;
+   background: url(http://seanhalpin.io/assets/img/ui/cloud.svg) top right no-repeat;
+   width: 150px;
+   height:45px;
+   z-index: 980;
+ }
+ #top .left-cloud{
+   left: 10em;
+   bottom:-2.4em;
+
+ }
+ .nav{
+   display: inline-block;
+   padding-bottom: 8%;
+
+ }
+ .container-fluid{
+   padding : 1.5% 15% 0 10% ;
+ }
+
+ .pic2{
+   padding-top: 5%;
+   padding-bottom: 2%;
+ }
+ h2{
+   color: #45b29a;
+   margin-top: 50px;
+   font-size: 2em;
+   }
+  .hello{
+    text-align: center;
+    font-size: 1.5em;
+    padding: 0 35% 2% 35%;
+  }
+  hr{
+    border: dotted #EAF6f6 6px;
+    border-bottom: none;
+    width: 4%;
+  }
+  .home-design-info{
+    float: left;
+  }
+  .design{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+  .win-img{
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+  }
+  h4{
+    color: #45b29a;
+    }
+  .win-img1{
+    width: 25%;
+    float: right;
+    margin-left: 50px;
+  }
+  .design{
+    font-size: 1.3em;
+  }
+
+  h6{
+    color: #45b29a;
+    margin-top: 30px;
+    font-size: 1.3em;
+
+
+  }
+  .last{
+    padding-left: 30%;
+    padding-right: 30%;
+    margin-top: 2%;
+    font-size: 1.25em;
+    margin-bottom: 5%;
+  }
+
+  .myButton {
+	background-color:#45b29a;
+	border-radius:13px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+  margin-bottom: 50px;
+}
+.myButton:hover {
+	background-color:#30e3cb;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #45b29a;
+    color: #fff;
+}
